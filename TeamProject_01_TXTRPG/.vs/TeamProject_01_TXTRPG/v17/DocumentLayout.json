@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|C:\\Chapter\\Chapter2\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|solutionrelative:Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|C:\\Chapter\\Chapter2\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Goblin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|solutionrelative:Goblin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|C:\\Chapter\\Chapter2\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Orc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|solutionrelative:Orc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +58,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orc.h",
+              "DocumentMoniker": "C:\\Chapter\\Chapter2\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Orc.h",
+              "RelativeDocumentMoniker": "Orc.h",
+              "ToolTip": "C:\\Chapter\\Chapter2\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Orc.h",
+              "RelativeToolTip": "Orc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-04T10:35:22.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Goblin.h",
+              "DocumentMoniker": "C:\\Chapter\\Chapter2\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Goblin.h",
+              "RelativeDocumentMoniker": "Goblin.h",
+              "ToolTip": "C:\\Chapter\\Chapter2\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Goblin.h",
+              "RelativeToolTip": "Goblin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-04T10:35:14.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Monster.cpp",
               "DocumentMoniker": "C:\\Chapter\\Chapter2\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Monster.cpp",
               "RelativeDocumentMoniker": "Monster.cpp",
               "ToolTip": "C:\\Chapter\\Chapter2\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Monster.cpp",
               "RelativeToolTip": "Monster.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-04T02:53:23.1Z",
               "EditorCaption": ""
@@ -69,7 +103,7 @@
               "RelativeDocumentMoniker": "Monster.h",
               "ToolTip": "C:\\Chapter\\Chapter2\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Monster.h",
               "RelativeToolTip": "Monster.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-04T02:51:58.718Z",
               "EditorCaption": ""
