@@ -10,7 +10,7 @@
 class Inventory
 {
 private:
-	vector<Item*> itemList; //map key 이름 value Item 정보
+	vector<Item*> itemList; //map 으로 변경 -> key 이름 value Item 정보
 	int maxSize;
 	int gold;
 
