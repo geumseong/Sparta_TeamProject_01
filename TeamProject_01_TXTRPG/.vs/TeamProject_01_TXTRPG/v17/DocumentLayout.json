@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Sparta\\Sparta_TeamP_01\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\",
+  "WorkspaceRootPath": "C:\\Users\\Happy\\Desktop\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|D:\\Sparta\\Sparta_TeamP_01\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|C:\\Users\\Happy\\Desktop\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|C:\\Users\\Happy\\Desktop\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|solutionrelative:Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|C:\\Users\\Happy\\Desktop\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|solutionrelative:Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\Happy\\Desktop\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Character.h",
+              "RelativeDocumentMoniker": "Character.h",
+              "ToolTip": "C:\\Users\\Happy\\Desktop\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Character.h",
+              "RelativeToolTip": "Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-04T02:06:13.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\Users\\Happy\\Desktop\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Character.cpp",
+              "RelativeDocumentMoniker": "Character.cpp",
+              "ToolTip": "C:\\Users\\Happy\\Desktop\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Character.cpp",
+              "RelativeToolTip": "Character.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T02:05:58.011Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "D:\\Sparta\\Sparta_TeamP_01\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Happy\\Desktop\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "D:\\Sparta\\Sparta_TeamP_01\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Main.cpp",
+              "ToolTip": "C:\\Users\\Happy\\Desktop\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
