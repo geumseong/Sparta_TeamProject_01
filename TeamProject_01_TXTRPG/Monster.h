@@ -2,5 +2,6 @@
 class Monster
 {
 gdgd
+gdgd2
 };
 
