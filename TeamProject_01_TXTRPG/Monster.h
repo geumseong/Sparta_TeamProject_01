@@ -2,5 +2,6 @@
 class Monster
 {
 	test01
+		02
 };
 
