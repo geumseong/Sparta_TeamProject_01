@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Sparta\\Sparta_TeamP_01\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|D:\\Sparta\\Sparta_TeamP_01\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11236151-9524-4B89-A792-C7A21802E7A3}|TeamProject_01_TXTRPG.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Sparta\\Sparta_TeamP_01\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "D:\\Sparta\\Sparta_TeamP_01\\Sparta_TeamProject_01\\TeamProject_01_TXTRPG\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T01:51:09.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
