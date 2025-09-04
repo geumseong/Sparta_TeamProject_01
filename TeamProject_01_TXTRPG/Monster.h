@@ -1,6 +1,6 @@
 #pragma once
 class Monster
 {
-vsvs
+	vs test a
 };
 
